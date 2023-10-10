@@ -19,9 +19,7 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
   <summary>
   1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023
   </summary><br>
-
-**Agenda e Apresentações**<br>
-  
+ 
 | Dia - Horário | Grupo | Tema |
 | :---: | :---: | - |
 | D 2 – 09h-10h | GCC |Aspectos gerais da estrutura de dados do MPAS-A e fluxo de integração (árvore de chamada). <br>**Download** (Árovre de chamada): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/GCC%20-%20App%20Estrutura%20de%20Chamadas%20MPAS.pdf)|
