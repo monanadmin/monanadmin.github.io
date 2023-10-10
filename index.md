@@ -15,10 +15,8 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ## Workshops
 
-<details>
-  <summary>1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023</summary><br>
-
-
+### 1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023
+  
 | Dia - Horário | Grupo | Tema |
 | :---: | :---: | - |
 | D 2 – 09h-10h | GCC |Aspectos gerais da estrutura de dados do MPAS-A e fluxo de integração (árvore de chamada). <br>**Download** (Árovre de chamada): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/GCC%20-%20App%20Estrutura%20de%20Chamadas%20MPAS.pdf)|
@@ -33,5 +31,3 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 | D 3 – 13h-15h | GAM e ATM | Pós-processamento e visualização. <br>**Download** (Pós-Processamento e Visualização MPAS-A): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/Pos-processamento_%20JoaoGerd.pdf) |
 | 15h | Pausa | Lanche |
 | D 3 – 15h30-17h | ATM, GCC e DAS | Discussão geral (impressões do pessoal que participou do workshop de 16 a 24 de setembro). <br>**Download 1** (Impresões): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/Presentation_Sapucci_MPAS-JEDI-Tutorial.pdf) <br>**Download 2** (Cloud Computing com Python: pacotes Zarr e Intake): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/Cloud%20Computing%20com%20Python%20-%20pacotes%20Zarr%20e%20Intake%20-%20carlos.pdf) |
-
-</details>
