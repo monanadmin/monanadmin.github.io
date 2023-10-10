@@ -18,7 +18,7 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 <details>
   <summary>1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023</summary><br>
 
-**Programação e Apresentações**
+**Programação e Apresentações**<br>
 
 | Dia - Horário | Grupo | Tema |
 | :---: | :---: | - |
