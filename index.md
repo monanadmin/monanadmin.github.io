@@ -1,17 +1,24 @@
 ![image](https://github.com/monanadmin/monanadmin.github.io/assets/41485190/3a1af685-e0dc-4c62-8c4b-d57df74c3066)
 
-MONAN is a community model of the Unified Earth System that has as its main objective, as its name already refers, to be a numerical model that covers all scales, geographical and temporal, of the entire Earth system and its implications. It is "community" because it aggregates efforts from several brazilian national institutions such as universities, research centers, operational centers and various authorities in the area of meteorology, environment, oceans and others. It also can receive support from international centers and universities as well as support from the private sector.
+MONAN (Model for Ocean-laNd-Atmosphere PredictioN) is a community model of the Unified Earth System that has as its main objective, as its name already refers, to be a numerical model that covers all scales, geographical and temporal, of the entire Earth system and its implications. It is "community" because it aggregates efforts from several brazilian national institutions such as universities, research centers, operational centers and various authorities in the area of meteorology, environment, oceans and others. It also can receive support from international centers and universities as well as support from the private sector.
+
+The MONAN Model is managed by a scientific committee appointed by INPE's director and has its initial version structure (0.1.0) based on the dynamic core of the MPAS 8.0.1 Model. part of the physics used by MONAN is obtained from the MPAS model and another part obtained from other sources or developed by the community. The MPAS model can be found at the link GitHub - MPAS-Dev/MPAS-Model: Repository for MPAS models and shared framework releases.
 
 ***
 
-### Recursos
+## Recursos
 
-- **Comitê Científico:** [monanadmin.github.io/monan_cc_docs/](https://monanadmin.github.io/monan_cc_docs/)
+- **Comitê Científico:** [monanadmin.github.io/monan_cc_docs](https://monanadmin.github.io/monan_cc_docs/)
 - **Repositório MONAN-Model:** [github.com/monanadmin/MONAN-Model](https://github.com/monanadmin/MONAN-Model)
 
 ***
 
-### 1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023
+## Workshops
+
+<details>
+  <summary>1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023</summary><br>
+
+**Programação e Apresentações**
 
 | Dia - Horário | Grupo | Tema |
 | :---: | :---: | - |
@@ -28,3 +35,4 @@ MONAN is a community model of the Unified Earth System that has as its main obje
 | 15h | Pausa | Lanche |
 | D 3 – 15h30-17h | ATM, GCC e DAS | Discussão geral (impressões do pessoal que participou do workshop de 16 a 24 de setembro). <br>**Download 1** (Impresões): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/Presentation_Sapucci_MPAS-JEDI-Tutorial.pdf) <br>**Download 2** (Cloud Computing com Python: pacotes Zarr e Intake): [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/workshop_2023_10_02e03/Cloud%20Computing%20com%20Python%20-%20pacotes%20Zarr%20e%20Intake%20-%20carlos.pdf) |
 
+</details>
