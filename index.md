@@ -8,7 +8,6 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ## Recursos
 
-- **Comitê Científico:** [monanadmin.github.io/monan_cc_docs](https://monanadmin.github.io/monan_cc_docs/)
 - **Repositório MONAN-Model:** [github.com/monanadmin/MONAN-Model](https://github.com/monanadmin/MONAN-Model)
 
 ***
