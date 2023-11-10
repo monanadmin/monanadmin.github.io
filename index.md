@@ -12,6 +12,12 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ***
 
+## Publicações
+
+- **Model for Ocean-laNd-Atmosphere predictioN (MONAN): Avaliação dos candidatos ao núcleo dinâmico do componente atmosférico (MONAN-ATM) – Recomendação ao Comitê Científico do MONAN**. Freitas, S. R. INPE, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKML8)
+
+***
+
 ## Workshops
 
 ### 1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023
