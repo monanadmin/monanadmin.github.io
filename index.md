@@ -16,6 +16,8 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 - **Model for Ocean-laNd-Atmosphere predictioN (MONAN): Avaliação dos candidatos ao núcleo dinâmico do componente atmosférico (MONAN-ATM) – Recomendação ao Comitê Científico do MONAN**. Freitas, S. R. INPE, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKML8)
 
+- **Relatório Técnico: Perspectivas da Modelagem Numérica dos processos de microfísica de nuvens no Brasil e suas aplicações no modelo comunitário MONAN**. Kubota, Paulo Yoshio; Gutierrez, Enver Manuel Amador Ramirez; Rivero, Silvio Nilo Figueroa; Manco, Jhonatan Andres Aguirre; Gomes, Jorge Luis; Bonatti, José Paulo; Chan, Chou Sin; Freitas, Saulo Ribeiro; Souza, Dayana Castilho e Lima, Isabella Talamoni. INPE, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49RSTC5)
+
 ***
 
 ## Workshops
