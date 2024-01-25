@@ -6,17 +6,20 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ***
 
-## Recursos
+## Resources
 
-- **Repositório MONAN-Model:** [github.com/monanadmin/MONAN-Model](https://github.com/monanadmin/MONAN-Model)
+- **MONAN-Model GitHub Repository:** [github.com/monanadmin/MONAN-Model](https://github.com/monanadmin/MONAN-Model)
 
 ***
 
-## Publicações
+## Publications
 
-- **Model for Ocean-laNd-Atmosphere predictioN (MONAN): Avaliação dos candidatos ao núcleo dinâmico do componente atmosférico (MONAN-ATM) – Recomendação ao Comitê Científico do MONAN**. Freitas, S. R. INPE, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKML8)
+- **Model for Ocean-laNd-Atmosphere predictioN (MONAN): Avaliação dos candidatos ao núcleo dinâmico do componente atmosférico (MONAN-ATM) – Recomendação ao Comitê Científico do MONAN**. Freitas, S. R. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKML8)
 
-- **Relatório Técnico: Perspectivas da Modelagem Numérica dos processos de microfísica de nuvens no Brasil e suas aplicações no modelo comunitário MONAN**. Kubota, Paulo Yoshio; Gutierrez, Enver Manuel Amador Ramirez; Rivero, Silvio Nilo Figueroa; Manco, Jhonatan Andres Aguirre; Gomes, Jorge Luis; Bonatti, José Paulo; Chan, Chou Sin; Freitas, Saulo Ribeiro; Souza, Dayana Castilho e Lima, Isabella Talamoni. INPE, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49RSTC5)
+- **Relatório Técnico: Perspectivas da Modelagem Numérica dos processos de microfísica de nuvens no Brasil e suas aplicações no modelo comunitário MONAN**. Kubota, Paulo Yoshio; Gutierrez, Enver Manuel Amador Ramirez; Rivero, Silvio Nilo Figueroa; Manco, Jhonatan Andres Aguirre; Gomes, Jorge Luis; Bonatti, José Paulo; Chan, Chou Sin; Freitas, Saulo Ribeiro; Souza, Dayana Castilho e Lima, Isabella Talamoni. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49RSTC5)
+
+- **Avaliação computacional de núcleos dinâmicos candidatos para o MONAN**. Rodrigues, L. F.; Souza, C. R. de; Eiras, D. M. de A.; Khamis, E. G.; Garcia, E. L. M.; Silva, J. M. A. da; Claudio, K. e Souto, R. P. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2023. [Acesso aqui](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKMSS)
+
 
 ***
 
@@ -24,7 +27,7 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ### 1° Workshop Interno da DIMNT para início dos trabalhos com o MONAN-ATM/SFC de 02 e 03 Outubro 2023
 
-**Agenda e Apresentações**
+**Presentations**
 
 | Dia - Horário | Grupo | Tema |
 | :---: | :---: | - |
