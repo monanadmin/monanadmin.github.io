@@ -22,7 +22,7 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 - **Avaliação da funcionalidade de software de Modelos Numéricos de escala global para o projeto MONAN - Parte I: Análise qualitativa, quantitativa e multivariada**. Frassoni, Ariane; Fernandez, Julio Pablo; Rosa, Marcelo Barbio; Rozante, José Roberto; Yamada, Bárbara A. G. P. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2023. [Acesso aqui](https://github.com/monanadmin/monanadmin.github.io/blob/main/publications/publicacao-aval-mpas-fv3.pdf)
 
-
+***
 
 ## Workshops
 
