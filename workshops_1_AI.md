@@ -1,9 +1,10 @@
 
-### 1st MONAN Meeting: AI for atmosphere/ocean dynamics - June 19th to 21th, 
+### 1st MONAN Meeting: AI for atmosphere/ocean dynamics - June 19th to 21th, 2024
 
 **Presentations**
 
 **Day 1** - 19 June
+
 | Time | Topic |
 | :-: | :- |
 | 09:00-10:00 | [MONAN project (Dr. Saulo R. Freitas, INPE)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%201/MONAN-AI-2024_Saulo.pdf) |
@@ -17,8 +18,9 @@
 | 16:20-17:20 | [Nowcasting: Developments and research (Dr. Alan J. P. Calheiros, INPE)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%201/MONAN-AI-2024_Calheiros.pdf) |
 
 **Day 2** - 20 June
+
 | Time | Topic |
-| :-: | :- | 
+| :---: | :--- |
 | 09:00-10:00 | [Data assimilation by machine learning approaches (Haroldo F. de Campos Velho, INPE)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%202/MONAN_IA_2024-DA_Haroldo.pdf) |
 | 10:00-10:15 | Coffee-break |
 | 10-20-11:20 | [DDNet: Prediction and data assimilation (Prof. Fangxin Fang, Imperial College London)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%202/MONAN_IA_2024-DDANet_Brazil_Fang.pdf) |
@@ -31,8 +33,9 @@
 | 16:50-17:20 | [AI systems for operational climate impact (Dr. Gabriel Perez, MeteoIA)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%202/MONAN_AI_2024-MeteoIA.pdf) |
 
 **Day 3** - 21 June
+
 | Time | Topic |
-| :-: | :- |
+| :---: | :--- |
 | 09:00-10:00 | [Multi-scale physical modeling and AI for solving partial differential equations (Prof. Fangxin Fang, Imperial College London)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%203/MONAN_AI_2024-Hybrid-Physical-AI-Brazil-Fang.pdf) |
 | 10:00-10:15 | Coffee-break |
 | 10-20-11:20 | [Forecasting Global Weather with Graph Neural Networks (Dr. Ryan Keisler – OpenEarthAI)](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/meeting_AI_2024_06_19a21/MONAN%20DAY%203/MONAN_AI_2024-ml_weather-Ryan_Keisler.pdf) |
