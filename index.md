@@ -26,6 +26,13 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ***
 
+## Trainings
+
+- ### [1st Training on the use and applications of the community model of the MONAN Earth system](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-abrigara-1o-treinamento-de-uso-e-aplicacoes-do-modelo-comunitario-do-sistema-terrestre-monan) - August 12th to 16th, 2024.
+
+
+***
+
 ## Workshops
 
 - ### [1st MONAN Meeting: AI for atmosphere/ocean dynamics](workshops_1_AI.md) - June 19th to 21th, 2024.
