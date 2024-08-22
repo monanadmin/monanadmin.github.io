@@ -44,3 +44,5 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 - ### [1st MONAN Meeting: AI for atmosphere/ocean dynamics](workshops_1_AI.md) - June 19th to 21th, 2024.
 
 - ### [1st DIMNT Internal Workshop to start work with MONAN-ATM/SFC](workshops_1_MONAN.md) - October 2nd to 3rd, 2023
+
+***

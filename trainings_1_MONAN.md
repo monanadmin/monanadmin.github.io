@@ -53,8 +53,8 @@
 | 10:55-12:00 | Practical session (TR) |
 | 12:00-13:30 | Lunch |
 | 13:45-14:10 | MONAN 1.0.0 overview and future plans (A) |
-| 14:10-14:30 | Overview of MONAN implementation (A) |
-| 14:30-16:00 | MONAN Regional Model Training (TR) |
+| 14:10-14:30 | Overview of MONAN implementation (A) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/Overview_of_MONAN_implementation-Treinamento_MONAN_ago_2024.pdf) |
+| 14:30-16:00 | MONAN Regional Model Training (TR) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/1_Monan_Regional_Model_Trainning_version_1.0.pdf) |
 | 16:00-16:10 | Break |
 | 16:10-17:00 | MONAN Regional Model Training (TR) |
 | 17:00-17:10 | Registering MONAN workshop group photograph |
@@ -92,3 +92,5 @@
 | 16:00-16:10 | Break |
 | 16:10-16:45 | Practical session 2/2: EDA/LETKD, Plot OMB/OMA, Regional (TR) |
 | 16:45-17:00 | Closing the event (A) |
+
+***
