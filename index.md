@@ -28,7 +28,7 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ## Trainings
 
-- ### 1st MONAN, MPAS-A and MPAS-JEDI Scientific Training - August 12th to 16th, 2024
+- ### 1st Community Training of MONAN/MPAS-A and MPAS-JEDI - August 12th to 16th, 2024
 
 [Presentations and Resources](trainings_1_MONAN.md)
 

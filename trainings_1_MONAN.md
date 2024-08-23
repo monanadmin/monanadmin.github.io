@@ -1,5 +1,5 @@
 
-### 1st MONAN, MPAS-A and MPAS-JEDI Scientific Training - August 12th to 16th, 2024
+### 1st Community Training of MONAN/MPAS-A and MPAS-JEDI - August 12th to 16th, 2024
 
 (A): refers to Auditorium - (TR): refers to Training Room
 
@@ -10,7 +10,7 @@
 | Time | Topic |
 | :-: | :- |
 | 08:30-09:00 | Registration |
-| 09:00-09:30 | Overview of the MONAN program (A) |
+| 09:00-09:30 | Overview of the MONAN program (A) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/MONAN-2024-training-1st_talk.pdf) |
 | 09:30-10:00 | Opening Remarks by the host Institution (A) |
 | 10:00-10:20 | MPAS Overview (A) |
 | 10:20-10:30 | Break |
@@ -52,7 +52,7 @@
 | 10:45-10:55 | Break |
 | 10:55-12:00 | Practical session (TR) |
 | 12:00-13:30 | Lunch |
-| 13:45-14:10 | MONAN 1.0.0 overview and future plans (A) |
+| 13:45-14:10 | MONAN 1.0.0 overview and future plans (A) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/MONAN-2024-training_2nd_talk.pdf) |
 | 14:10-14:30 | Overview of MONAN implementation (A) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/Overview_of_MONAN_implementation-Treinamento_MONAN_ago_2024.pdf) |
 | 14:30-16:00 | MONAN Regional Model Training (TR) - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/trainings_1_MONAN_2024_08_12a16/1_Monan_Regional_Model_Trainning_version_1.0.pdf) |
 | 16:00-16:10 | Break |
