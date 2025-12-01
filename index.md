@@ -26,6 +26,12 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ***
 
+## Thesis and Dissertations using the MONAN system
+
+- **Exploring cold pools dynamics in MONAN: insights from numerical simulations of hurricanes.** Bianca Fusinato. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2025. [Acesso aqui](http://urlib.net/ibi/8JMKD2USNRW34T/4E6PL2B)
+
+***
+
 ## Trainings
 
 - ### 1st Community Training of MONAN/MPAS-A and MPAS-JEDI - August 12th to 16th, 2024
