@@ -34,7 +34,15 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ***
 
-## Trainings
+## Workshops and Trainings
+
+### 2026
+
+- ### [5th Workshop on Convective Organization (WCO5)](workshops_3_WCO5.md) | 9–12 March 2026.
+
+[Program](workshops_3_WCO5.md)
+
+[Media Coverage: "O 5º Workshop sobre Organização Convectiva (WCO5) será realizado no INPE, em São José dos Campos, Brasil, de 9 a 12 de março de 2026"](https://www.gov.br/inpe/pt-br/eventos/wco5)
 
 ### 2025
 
@@ -43,6 +51,8 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 [Program](trainings_2_WMO.md)
 
 [Media Coverage: "Curso Internacional de Previsão de Tempo reúne representantes de 15 países no INPE em Cachoeira Paulista"](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/curso-internacional-de-previsao-de-tempo-reune-representantes-de-15-paises-no-inpe-em-cachoeira-paulista)
+
+[Media Coverage: "Mejorando la Capacidad Regional de Pronóstico y Alerta Temprana en las Américas"](https://www.linkedin.com/posts/organizaci%C3%B3n-meteorol%C3%B3gica-mundial_mejorando-la-capacidad-regional-de-pron%C3%B3stico-activity-7399089750999007232-kzK-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbR2zUBTgR9gHObNtBC5myVd3tOzPStBLc&skipRedirect=true)
 
 ### 2024
 
@@ -53,20 +63,6 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 [Media Coverage: "INPE Abrigará 1º Treinamento de uso e aplicações do modelo comunitário do sistema Terrestre MONAN"](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-abrigara-1o-treinamento-de-uso-e-aplicacoes-do-modelo-comunitario-do-sistema-terrestre-monan)
 
 [Hotsite CPTEC](https://www.cptec.inpe.br/treinamento-monan-2024/)
-
-***
-
-## Workshops
-
-### 2026
-
-- ### [5th Workshop on Convective Organization (WCO5)](workshops_3_WCO5.md) | 9–12 March 2026.
-
-[Program](workshops_3_WCO5.md)
-
-[Media Coverage: "O 5º Workshop sobre Organização Convectiva (WCO5) será realizado no INPE, em São José dos Campos, Brasil, de 9 a 12 de março de 2026"](https://www.gov.br/inpe/pt-br/eventos/wco5)
-
-### 2024
 
 - ### [1st MONAN Meeting: AI for atmosphere/ocean dynamics](workshops_1_AI.md) | 19–21 June 2024.
 
