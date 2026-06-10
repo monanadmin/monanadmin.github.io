@@ -16,6 +16,8 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ## Publications
 
+- **Aspectos computacionais e de operacionalização do MONAN-Model versão 1.4.3-rc**. Khamis, E. G.; Souza, C. R. de; Katsurayama, D. M.; Silva, J. M. A. da; Rodrigues, L. F.; Ramos, M. P.; Neto, S. V. B. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/upn:4CUH36S:8JMKD2USNRW34T/4FPGQE8)
+
 - **Documento Técnico Normativo (DTN) - Padrão de Codificação para o MONAN (Model for Ocean-laNd-Atmosphere predctioN): DTN-01 - VERSÃO 0.1.0**. Khamis, E. G.; Souza, C. R. de; Eiras, D. M. de A.; Silva, J. M. A. da; Ramos, M. P.; Claudio, K. e Rodrigues, L. F. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2025. [Full text available here](http://urlib.net/8JMKD2USNRW34T/4EP3N68)
 
 - **Model for Ocean-laNd-Atmosphere predictioN (MONAN): Avaliação dos candidatos ao núcleo dinâmico do componente atmosférico (MONAN-ATM) – Recomendação ao Comitê Científico do MONAN**. Freitas, S. R. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2023. [Full text available here](http://urlib.net/ibi/8JMKD3MGP3W34T/49MKML8)
