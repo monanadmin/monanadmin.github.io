@@ -16,6 +16,8 @@ The MONAN Model is managed by a scientific committee appointed by INPE's directo
 
 ## Publications
 
+- **Distância de Mahalanobis: uma visão holística de um conjunto de dados**. Rosa, Marcelo Barbio; Frassoni, Ariane; Fernandez, Júlio Pablo Reyes. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/8JMKD2USNRW34T/4GD9PUP)
+
 - **Avaliação estatística da precipitação do MONAN versão 1.4.3-RC**. Lyra, André de Arruda; Eras, Eduardo Rohde; Mendonça, Guilherme Luiz Torres; Hernandez, Lianet; Casagrande, Madeleine Sanchez Gacita; Kubota, Paulo Yoshio; Freitas, Saulo Ribeiro de. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/8JMKD2USNNW34T/4FJG5HP)
 
 - **Aspectos computacionais e de operacionalização do MONAN-Model versão 1.4.3-rc**. Khamis, E. G.; Souza, C. R. de; Katsurayama, D. M.; Silva, J. M. A. da; Rodrigues, L. F.; Ramos, M. P.; Neto, S. V. B. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/upn:4CUH36S:8JMKD2USNRW34T/4FPGQE8)
