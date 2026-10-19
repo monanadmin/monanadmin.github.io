@@ -8,6 +8,8 @@ The MONAN model is managed by a scientific committee appointed by the director o
 
 Last update: Oct 2026.
 
+***
+
 ## Resources
 
 - **MONAN-Model GitHub Repository:** [github.com/monanadmin/MONAN-Model](https://github.com/monanadmin/MONAN-Model)
