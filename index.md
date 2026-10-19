@@ -7,6 +7,7 @@
 The MONAN model is managed by a scientific committee appointed by the director of INPE (Brazil's National Institute for Space Research). Its initial version (0.1.0), representing only the atmosphere, was based on the dynamical core of the MPAS 8.0.1 model (see [https://github.com/MPAS-Dev/MPAS-Model](https://github.com/MPAS-Dev/MPAS-Model)). Part of its physics is inherited from MPAS, and part of it is being developed and implemented by the community. The atmospheric component is currently being coupled to the ocean model MOM6 ([https://github.com/NOAA-GFDL/MOM6-examples](https://github.com/NOAA-GFDL/MOM6-examples)).
 
 Last update: Oct 2026.
+
 ***
 
 ## Resources
