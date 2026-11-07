@@ -46,6 +46,12 @@ Last update: Oct 2026.
 
 ### 2026
 
+- ### [Curso de Capacitación Avanzada MPAS-SUR 2026 Modelación atmosférica y climática de nueva generación: fundamentos y aplicaciones de MPAS/MONAN](trainings_3_MONAN-MPAS-SUR.md) | 27–29 Octubre 2026.
+
+[Program](trainings_3_MONAN-MPAS-SUR.md)
+
+[Media Coverage: "Departamento de Meteorología UV fortalece colaboración internacional para avanzar en modelos meteorológicos y climáticos"](https://www.uv.cl/archivo-noticias-uv/29801-departamento-de-meteorologia-de-la-uv-fortalece-colaboracion-internacional-para-avanzar-en-modelos-meteorologicos-y-climaticos)
+
 - ### [5th Workshop on Convective Organization (WCO5)](workshops_3_WCO5.md) | 9–12 March 2026.
 
 [Program](workshops_3_WCO5.md)
