@@ -19,7 +19,7 @@
 
 | Time | Topic |
 | :-: | :- |
-| 10:00 - 11:00 | Parametrización de la convección - Docente: S. R. Freitas |
+| 10:00 - 11:00 | Parametrización de la convección - Docente: S. R. Freitas - [**pptx**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/monan_sitegit/workshops_tranings/2026/t3_MONAN-MPAS-SUR/lectures/UniValparaiso_Chile_2026.pptx) |
 | 11:00 - 11:15 | Pausa de café |
 | 11:15 - 13:15 | Entrenamiento práctico del modelo - Docentes: Eduardo Khamis, Carlos Renato, Daniel Massaru, João Messias, Marcelo Paiva e Sylvio Neto - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/monan_sitegit/workshops_tranings/2026/t3_MONAN-MPAS-SUR/lectures/gcc_workshop_chile_pratico_2026.pdf) |
 | 13:15 - 15:00 | Pausa de almuerzo |
@@ -30,7 +30,7 @@
 
 | Time | Topic |
 | :-: | :- |
-| 10:00 - 11:00 | Asimilación de datos - Docente: J. G. Mattos |
+| 10:00 - 11:00 | Asimilación de datos - Docente: J. G. Mattos - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/monan_sitegit/workshops_tranings/2026/t3_MONAN-MPAS-SUR/lectures/apresentacao_MPAS-SUR_assimilacao.pdf) |
 | 11:00 - 11:15 | Pausa de café |
 | 11:15 - 12:15 | Microfísica de nubes - Docente: L. Hernández - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/monan_sitegit/workshops_tranings/2026/t3_MONAN-MPAS-SUR/lectures/MONAN_microphysics_course.pdf)|
 | 12:15 - 13:15 | Turbulencia y esquemas de capa límite planetaria - Docente: G. Mendonça - [**pdf**](http://dataserver.cptec.inpe.br/dataserver_dimnt/monan/monan_sitegit/workshops_tranings/2026/t3_MONAN-MPAS-SUR/lectures/20261029_TorresMendonca_Turbulence_UniValParaiso_v2.pptx.pdf)|
