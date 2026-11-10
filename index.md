@@ -50,6 +50,8 @@ Last update: Oct 2026.
 
 [Program](trainings_3_MONAN-MPAS-SUR.md)
 
+[Media Coverage: "INPE e universidade do Chile realizam evento sobre modelagem meteorológica e climática"](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-e-universidade-do-chile-realizam-evento-sobre-modelagem-meteorologica-e-climatica)
+
 [Media Coverage: "Departamento de Meteorología UV fortalece colaboración internacional para avanzar en modelos meteorológicos y climáticos"](https://www.uv.cl/archivo-noticias-uv/29801-departamento-de-meteorologia-de-la-uv-fortalece-colaboracion-internacional-para-avanzar-en-modelos-meteorologicos-y-climaticos)
 
 - ### [5th Workshop on Convective Organization (WCO5)](workshops_3_WCO5.md) | 9–12 March 2026.
