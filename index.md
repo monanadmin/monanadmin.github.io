@@ -18,6 +18,10 @@ Last update: Oct 2026.
 
 ## Publications
 
+- **Análise da partição de energia modal do modelo MONAN global pré-operacional**. José Paulo Bonatti. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](publications/bonatti_MONAN_Melissa_2026.pdf)
+
+- **Análise da energética modal para a ZCAS ocorrida entre 07 e 10 de fevereiro de 2026 usando o modelo MONAN 1.4.3-rc em comparação com a reanálise ERA_5**. José Paulo Bonatti. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](publications/bonatti_MONAN_ZCAS_2026.pdf)
+
 - **Distância de Mahalanobis: uma visão holística de um conjunto de dados**. Rosa, Marcelo Barbio; Frassoni, Ariane; Fernandez, Júlio Pablo Reyes. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/8JMKD2USNRW34T/4GD9PUP)
 
 - **Avaliação estatística da precipitação do MONAN versão 1.4.3-RC**. Lyra, André de Arruda; Eras, Eduardo Rohde; Mendonça, Guilherme Luiz Torres; Hernandez, Lianet; Casagrande, Madeleine Sanchez Gacita; Kubota, Paulo Yoshio; Freitas, Saulo Ribeiro de. INPE - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 2026. [Full text available here](http://urlib.net/8JMKD2USNNW34T/4FJG5HP)
